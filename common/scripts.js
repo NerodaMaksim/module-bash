@@ -1,4 +1,4 @@
-
+<script>
 (function ($) {
 
     "use strict";
@@ -293,3 +293,4 @@ function initMap() {
         title: 'Snazzy!'
     });
 }
+</script>

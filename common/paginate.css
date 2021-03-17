@@ -1,6 +1,7 @@
 /*!
  * The important stuffs. The ones that you should copy-paste and use.
  */
+<style>
 .paginate {
   text-align: center; }
   .paginate ul {
@@ -98,3 +99,4 @@
     background-image: -o-linear-gradient(top, #303338, #2d3034);
     background-image: linear-gradient(top, #303338, #2d3034);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#303338', EndColorStr='#2d3034'); }
+</style>
